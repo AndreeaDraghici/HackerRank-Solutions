@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\C\P6\Conditional_Statements_in_C\Conditional_Statements_in_C\Source.cpp(17,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
