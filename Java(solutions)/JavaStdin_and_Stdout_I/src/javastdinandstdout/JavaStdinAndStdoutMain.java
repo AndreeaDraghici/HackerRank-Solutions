@@ -2,7 +2,7 @@ package javastdinandstdout;
 
 import java.util.Scanner;
 
-public class LavaStdinAndStdoutMain {
+public class JavaStdinAndStdoutMain {
 
 	public static void main(String[] args) {
 	try (
